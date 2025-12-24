@@ -1,6 +1,6 @@
 Многофайловый проект со следующей файловой структурой:
-ProjectName.cpp -- в данном файле находится меню и точка входа main;
-Class.h -- объявление класса, геттеров и сеттеров.
-Class.cpp -- описание функций класса.
-Function.h -- объявление прототипов функций. 
-Function.cpp -- реализация функций.
+main.cpp -- в данном файле находится меню и точка входа main;
+Person.h / Employee.h / Passenger.h / PassengerEmployee.h / Ticket.h -- объявление классов, геттеров и сеттеров.
+Person.cpp / Employee.cpp / Passenger.cpp / PassengerEmployee.cpp / Ticket.cpp -- описание функций классов.
+StationUtils.h -- объявление прототипов функций. 
+StationUtils.cpp -- реализация функций.
